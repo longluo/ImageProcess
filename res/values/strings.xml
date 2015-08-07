@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">ImageProcess</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="saturation">饱和度</string>
+    <string name="contrast">对比度</string>
+    <string name="lightness">亮度</string>
+    
+    <string name="alpha">透明度</string>
+    
+    <string name="copyright">Copyright &#169; LuoLong at 2015.05.21. All Rights Reserved.</string>
+
+</resources>
